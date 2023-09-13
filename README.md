@@ -8,7 +8,7 @@ My core skills are HyperText Markup Language (HTML), Cascading Style Sheets (CSS
 **Here's a quick summary about me**:
 
 😊 Pronouns: She/her <br>
-💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022. <br>
+💡 Fun fact: I'm a foodie. <br>
 🌱 I’m currently learning JavaScript and Reactjs.<br>
 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.<br>
 💼 Job interests: Software Engineer, Front End Engineer (Intern or Junior level). <br>
